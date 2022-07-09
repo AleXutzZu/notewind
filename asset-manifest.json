@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notewind/static/css/main.e0b9bbc8.css",
+    "main.js": "/notewind/static/js/main.1609a90d.js",
+    "index.html": "/notewind/index.html",
+    "main.e0b9bbc8.css.map": "/notewind/static/css/main.e0b9bbc8.css.map",
+    "main.1609a90d.js.map": "/notewind/static/js/main.1609a90d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b9bbc8.css",
+    "static/js/main.1609a90d.js"
+  ]
+}
