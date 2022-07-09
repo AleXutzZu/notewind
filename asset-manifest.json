@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/notewind/static/css/main.e0b9bbc8.css",
-    "main.js": "/notewind/static/js/main.1609a90d.js",
+    "main.js": "/notewind/static/js/main.360802c0.js",
     "index.html": "/notewind/index.html",
     "main.e0b9bbc8.css.map": "/notewind/static/css/main.e0b9bbc8.css.map",
-    "main.1609a90d.js.map": "/notewind/static/js/main.1609a90d.js.map"
+    "main.360802c0.js.map": "/notewind/static/js/main.360802c0.js.map"
   },
   "entrypoints": [
     "static/css/main.e0b9bbc8.css",
-    "static/js/main.1609a90d.js"
+    "static/js/main.360802c0.js"
   ]
 }
