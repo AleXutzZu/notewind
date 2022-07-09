@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .default-overlay-properties {
+        @apply absolute top-10 bottom-10 left-10 right-10 overflow-auto p-4 outline-none;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .edit-and-preview-overlay {
+        @apply border-[3px] border-solid border-black ml-[-40px] my-auto h-4/6 w-full lg:w-[40rem] lg:mx-auto bg-[#FFF5A0] rounded-lg;
+    }
+
+    .cancel-and-delete-overlay {
+        @apply border-[3px] border-solid border-black m-auto bg-white h-52 w-4/5 md:w-[30rem] rounded-lg;
+    }
+}
+
